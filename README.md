@@ -5,7 +5,7 @@ In this project, we designed a Traffic Light Controller using Verilog that imple
 This project implements a **smart traffic light controller** using Verilog HDL.  
 It handles **normal traffic flow** as well as **emergency vehicle priority**—the signals automatically shift to clear the emergency path.  
 
-## ⚙️ Features
+## Features
 - Verilog-based traffic light controller
 - Emergency signal detection and priority handling
 - Testbench developed for functional verification
